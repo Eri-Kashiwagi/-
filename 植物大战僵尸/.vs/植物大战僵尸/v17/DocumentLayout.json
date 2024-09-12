@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\\u690D\u7269\u5927\u6218\u50F5\u5C38\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2986499E-716B-4AE3-B13C-5E5F2AD4090D}|\u690D\u7269\u5927\u6218\u50F5\u5C38\\\u690D\u7269\u5927\u6218\u50F5\u5C38.vcxproj|C:\\Users\\Lenovo\\Desktop\\\u690D\u7269\u5927\u6218\u50F5\u5C38\\\u5F00\u53D1\u65E5\u5FD7.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2986499E-716B-4AE3-B13C-5E5F2AD4090D}|\u690D\u7269\u5927\u6218\u50F5\u5C38\\\u690D\u7269\u5927\u6218\u50F5\u5C38.vcxproj|solutionrelative:\u5F00\u53D1\u65E5\u5FD7.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2986499E-716B-4AE3-B13C-5E5F2AD4090D}|\u690D\u7269\u5927\u6218\u50F5\u5C38\\\u690D\u7269\u5927\u6218\u50F5\u5C38.vcxproj|E:\\WINDOWS KITS\\10\\INCLUDE\\10.0.22621.0\\SHARED\\APISET.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\\u690D\u7269\u5927\u6218\u50F5\u5C38\\\u690D\u7269\u5927\u6218\u50F5\u5C38\\meiyou.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u690D\u7269\u5927\u6218\u50F5\u5C38\\meiyou.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 203,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u5F00\u53D1\u65E5\u5FD7.txt",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\\u690D\u7269\u5927\u6218\u50F5\u5C38\\\u5F00\u53D1\u65E5\u5FD7.txt",
+              "RelativeDocumentMoniker": "\u5F00\u53D1\u65E5\u5FD7.txt",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\\u690D\u7269\u5927\u6218\u50F5\u5C38\\\u5F00\u53D1\u65E5\u5FD7.txt",
+              "RelativeToolTip": "\u5F00\u53D1\u65E5\u5FD7.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-12T06:28:58.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "apiset.h",
+              "DocumentMoniker": "E:\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\apiset.h",
+              "ToolTip": "E:\\Windows Kits\\10\\Include\\10.0.22621.0\\shared\\apiset.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-12T06:28:52.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "meiyou.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\\u690D\u7269\u5927\u6218\u50F5\u5C38\\\u690D\u7269\u5927\u6218\u50F5\u5C38\\meiyou.cpp",
+              "RelativeDocumentMoniker": "\u690D\u7269\u5927\u6218\u50F5\u5C38\\meiyou.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\\u690D\u7269\u5927\u6218\u50F5\u5C38\\\u690D\u7269\u5927\u6218\u50F5\u5C38\\meiyou.cpp",
+              "RelativeToolTip": "\u690D\u7269\u5927\u6218\u50F5\u5C38\\meiyou.cpp",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAIYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-15T15:37:44.022Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
